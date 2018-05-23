@@ -1,0 +1,12 @@
+/*Declare all variables on top*/
+$backgroundColor: #ffcc00;
+$fieldSetColor: #660066;
+
+/*The styling begins here*/
+body{
+     background-color: $backgroundColor;
+}
+
+fieldset{
+         background-color: $fieldSetColor;
+}
